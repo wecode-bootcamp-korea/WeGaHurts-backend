@@ -40,3 +40,5 @@ class CommentView(View):
 		return JsonResponse({ 'data':comment_data },status =200)
 
 
+
+
